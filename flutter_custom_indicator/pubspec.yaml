@@ -1,7 +1,7 @@
 name: flutter_custom_indicator
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_custom_indicator
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_custom_indicator
 
 environment:
   sdk: ^3.8.1
